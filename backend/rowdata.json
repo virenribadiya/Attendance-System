@@ -1,0 +1,36 @@
+{
+    "_id": "63d740076105df3525e28da8",
+    "enrolmentNo": "20SOECE11080",
+    "isPresent": true,
+    "__v": 0
+},
+{
+    "_id": "63d7403d6105df3525e28dab",
+    "enrolmentNo": "20SOECE11081",
+    "isPresent": false,
+    "__v": 0
+},
+{
+    "_id": "63d7404a6105df3525e28dad",
+    "enrolmentNo": "20SOECE11082",
+    "isPresent": true,
+    "__v": 0
+},
+{
+    "_id": "63d740526105df3525e28daf",
+    "enrolmentNo": "20SOECE11083",
+    "isPresent": false,
+    "__v": 0
+},
+{
+    "_id": "63d740576105df3525e28db1",
+    "enrolmentNo": "20SOECE11084",
+    "isPresent": false,
+    "__v": 0
+},
+{
+    "_id": "63d7405e6105df3525e28db3",
+    "enrolmentNo": "20SOECE11085",
+    "isPresent": true,
+    "__v": 0
+}
