@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-light my-navbar">
         <div class="container">
-            <router-link class="navbar-brand" :to="{name:'home'}"> 
+            <router-link class="navbar-brand" :to="{name:'classList'}"> 
                <div class="text-centre">Attandance System</div> 
             </router-link>
         </div>
